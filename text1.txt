@@ -1,0 +1,3 @@
+This is my 1st test for git
+welcome to git
+Hello all
