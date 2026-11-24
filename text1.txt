@@ -1,3 +1,5 @@
 This is my 1st test for git
 welcome to git
 Hello all
+New change done in file
+Bye bye
